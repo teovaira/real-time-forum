@@ -30,6 +30,10 @@ go.work.sum
 /specs.txt
 /audits.txt
 
+# Personal Claude setup
+.claude/
+CLAUDE.md
+
 # Node
 node_modules/
 coverage/
