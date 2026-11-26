@@ -25,3 +25,21 @@ go.work.sum
 # env file
 .env
 
+# Local-only team documents (shared on Discord)
+/ROADMAP.md
+/specs.txt
+/audits.txt
+
+# Node
+node_modules/
+coverage/
+
+# SQLite
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+
+# Misc
+.env
+.DS_Store
