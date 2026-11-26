@@ -9,6 +9,11 @@
 *.so
 *.dylib
 
+# Server binary and coverage reports
+/server
+/coverage.txt
+/coverage.html
+
 # Test binary, built with `go test -c`
 *.test
 
