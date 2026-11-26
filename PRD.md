@@ -87,6 +87,25 @@ opens the conversation with its past messages.
 
 **Edge cases:** conversations with more than 10 and more than 20 messages.
 
+## Beyond the spec (team decision)
+
+The spec and the audit do not require these. The first two are carried over from the
+first forum.
+
+**Likes and dislikes**
+
+**Behavior:** a logged-in user likes or dislikes a post or a comment.
+
+**Post filters**
+
+**Behavior:** a logged-in user filters the feed by category, by their own posts, or by the
+posts they liked.
+
+**Messages to offline users**
+
+**Behavior:** a message sent to an offline user is saved, and the user sees it as unread
+the next time they load the forum.
+
 ## Optional (bonus)
 
 - User profiles.
